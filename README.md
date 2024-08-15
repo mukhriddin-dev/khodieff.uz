@@ -1,6 +1,6 @@
-# Astropod | Free and Open Source Serverless Podcast
+# KHODIEFF.UZ
 
-![Atropod](https://github.com/manuelernestog/manuelernestog/assets/53962116/3106bf65-37f9-427f-9b50-72d7ae22752f)
+
 
 Astropod is a free and open-source self-hosting serverless podcast solution. It supports diverse deployment services and audio hosting options and includes a customizable website deployable in a few clicks, with a personalized domain and a user-friendly CMS for effortless podcast management.
 
@@ -10,7 +10,7 @@ Astropod is a free and open-source self-hosting serverless podcast solution. It 
 
 View a live demo and a tutorial step by step of how deploy and configure your podcast with Astropod.
 
-👉️ <https://getastropod.netlify.app>
+👉️ <https://khodieff.uz>
 
 ---
 
@@ -97,7 +97,7 @@ All commands are run from the root of the project, from a terminal:
 
 Suggestions and pull requests are welcomed! Feel free to open a discussion or an issue for a new feature request or bug.
 
-One of the best ways of contribute is to grab a [bug report or feature suggestion](https://github.com/manuelernestog/astropod/issues) that has been marked `accepted` and dig in.
+One of the best ways of contribute is to grab a [bug report or feature suggestion](https://github.com/mukhriddin-dev/khodieff.uz/issues) that has been marked `accepted` and dig in.
 
 Please be wary of working on issues _not_ marked as `accepted`. Just because someone has created an issue doesn't mean we'll accept a pull request for it.
 
@@ -107,11 +107,11 @@ Astropod is licensed under the MIT license — see the [LICENSE](https://github.
 
 ## Contributors
 
-[![Manuel Ernestog](https://contrib.rocks/image?repo=manuelernestog/astropod)](https://github.com/manuelernestog/astropod/graphs/contributors)
+
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-[deploy]: https://app.netlify.com/start/deploy?repository=https://github.com/manuelernestog/astropod
+[deploy]: https://app.netlify.com/start/deploy?repository=https://github.com/mukhriddin-dev/khodieff.uz
 [identity]: https://docs.netlify.com/visitor-access/identity/
 [gateway]: https://docs.netlify.com/visitor-access/git-gateway/
 [pnpm]: https://pnpm.io/
