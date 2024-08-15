@@ -1,6 +1,6 @@
 ---
 title: Ba’zi eshiklar ochilmaydi
-audioUrl: https://github.com/mukhriddin-dev/sounds/blob/main/discord-leave-noise.mp3
+audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c162821765-1658350707858.mp3
 pubDate: 16 Aug 2024
 duration: 0:00:00
 size: 0

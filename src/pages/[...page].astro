@@ -9,6 +9,7 @@ import PlainTextRenderer from "marked-plaintext";
 import { marked } from "marked";
 import Pagination from "../components/pagination.astro";
 
+
 const renderer = new PlainTextRenderer();
 
 export async function getStaticPaths({ paginate }) {
@@ -20,6 +21,7 @@ const { page } = Astro.props;
 ---
 
 <BaseLayout>
+  
   <HeaderCard title={astropodConfig.name} subtitle={astropodConfig.author} />
 
   <div class="card min-w-full bg-base-100 shadow-md p-3 pb-3 mt-12">
