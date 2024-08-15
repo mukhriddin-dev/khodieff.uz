@@ -1,0 +1,25 @@
+{
+  "copyright": "2022",
+  "theme": "light",
+  "fundingText": "",
+  "author": "Mukhriddin Khodieff",
+  "name": "OPEN BLOG",
+  "banner": "/banner.webp",
+  "pageSize": 15,
+  "fundingUrl": "https://t.me/khodieff",
+  "owner": "Mukhriddin Khodieff",
+  "favicon": "/favicon.png",
+  "explicit": false,
+  "cover": "/logo.webp",
+  "language": "en",
+  "link": "https://khodieff.uz",
+  "email": "khodieff@gmail.com",
+  "description": "Software Engineer with 7+ years of experience. The main stack is Frontend (JavaScript and Vue JS, React Js, Angular Js). My backend experience is NodeJs (Express.js) and PHP (in Laravel). I have worked on CRMs with more than one million users, completed more than 100 projects during my career. I strive for innovation and constantly try to work on myself.",
+  "category": [
+    "Technology",
+    "Business",
+    "Relegion",
+    "Politics"
+  ],
+  "feedSize": ""
+}
