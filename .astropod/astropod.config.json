@@ -9,7 +9,7 @@
   "fundingUrl": "https://t.me/khodieff",
   "owner": "Mukhriddin Khodieff",
   "favicon": "/favicon.png",
-  "explicit": false,
+  "explicit": true,
   "cover": "/logo.webp",
   "language": "en",
   "link": "https://khodieff.uz",
@@ -18,8 +18,7 @@
   "category": [
     "Technology",
     "Business",
-    "Relegion",
-    "Politics"
+    "Education"
   ],
   "feedSize": ""
 }
