@@ -1,6 +1,6 @@
 ---
 title: Ba’zi eshiklar ochilmaydi
-audioUrl: https://t.me/khodieff
+audioUrl: https://github.com/mukhriddin-dev/sounds/blob/main/discord-leave-noise.mp3
 pubDate: 16 Aug 2024
 duration: 0:00:00
 size: 0
