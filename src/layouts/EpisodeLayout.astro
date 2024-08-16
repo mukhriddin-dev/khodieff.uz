@@ -4,6 +4,7 @@ import dayjs from "dayjs";
 import localizedFormat from "dayjs/plugin/localizedFormat";
 import HeaderCard from "../components/headerCard/HeaderCard.astro";
 import astropodConfig from "../../.astropod/astropod.config.json";
+import './index.css'
 
 const { title, explicit, pubDate, cover, description } = Astro.props;
 dayjs.extend(localizedFormat);
@@ -24,14 +25,19 @@ const displayDate = dayjs(pubDate).format("ll");
 
   <main class="md:flex md:justify-center">
     <article
-      class="card prose min-w-full prose-img:mx-auto bg-base-100 shadow-md p-8 mt-12"
+      class="card prose min-w-full prose-img:mx-auto bg-base-100 shadow-md p-3 mt-12"
     >
+  
+      <div class="bg-slate-50 p-6 rounded-2xl wr">
+        <slot />
+      </div>
 
-      <slot />
       <ul class="flex items-center bg-slate-50 rounded-2xl hover:bg-slate-100"> 
            
           
-             <p>Ulashing:</p>
+             <p>Ulashish:</p>
+
+             <div>
 
               <script src="https://yastatic.net/share2/share.js" />
 
@@ -45,7 +51,8 @@ const displayDate = dayjs(pubDate).format("ll");
                 data-services="telegram,whatsapp"
 
               />
-            </>
+        
+             </div>
           
         
       </ul>

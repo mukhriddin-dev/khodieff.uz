@@ -4,7 +4,7 @@ audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c1
 pubDate: 16 Aug 2024
 duration: 04:49:00
 size: 0
-cover: /images.jpeg
+cover: /a4gowave8tyzdtescsxl.jpg
 explicit: false
 episode: 10
 season: 1

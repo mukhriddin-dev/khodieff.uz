@@ -1,0 +1,15 @@
+.wr img {
+    border-radius: 12px;
+    filter: grayscale(0);
+}
+
+
+.wr img:hover {
+    border-radius: 12px;
+    filter: grayscale(1);
+}
+
+.wr p{
+    line-height: 26px;
+    font-size: 17px;
+}
