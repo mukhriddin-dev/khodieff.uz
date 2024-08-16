@@ -10,12 +10,45 @@ dayjs.extend(localizedFormat);
 const displayDate = dayjs(pubDate).format("ll");
 ---
 
-<BaseLayout title={`${title} - ${astropodConfig.name}`} description={description} image={cover}>
-  <HeaderCard title={title} subtitle={astropodConfig.name} cover={cover} explicit={explicit} />
+<BaseLayout
+  title={`${title} - ${astropodConfig.name}`}
+  description={description}
+  image={cover}
+>
+  <HeaderCard
+    title={title}
+    subtitle={astropodConfig.name}
+    cover={cover}
+    explicit={explicit}
+  />
 
   <main class="md:flex md:justify-center">
-    <article class="card prose min-w-full prose-img:mx-auto bg-base-100 shadow-md p-8 mt-12">
+    <article
+      class="card prose min-w-full prose-img:mx-auto bg-base-100 shadow-md p-8 mt-12"
+    >
+
       <slot />
+      <ul class="flex items-center bg-slate-50 rounded-2xl hover:bg-slate-100"> 
+           
+          
+             <p>Ulashing:</p>
+
+              <script src="https://yastatic.net/share2/share.js" />
+
+              <div
+                class="ya-share2 block mt-2"
+                data-curtain
+                data-shape="round"
+                data-color-scheme="blackwhite"
+                data-limit="0"
+                data-more-button-type="short"
+                data-services="telegram,whatsapp"
+
+              />
+            </>
+          
+        
+      </ul>
     </article>
   </main>
 </BaseLayout>

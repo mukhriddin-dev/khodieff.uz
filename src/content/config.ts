@@ -9,8 +9,8 @@ const episodeSchema = z.object({
     episode: z.number().optional(),
     season: z.number().optional(),
     episodeType: z.string().optional(),
-    duration: z.coerce.string(), //duration in format hh:mm:ss
-    size: z.number(), // size in megabytes
+    duration: z.coerce.string(), 
+    size: z.number(), 
 });
 
 export type episodeSchema = z.infer<typeof episodeSchema>;

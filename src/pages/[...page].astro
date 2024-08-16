@@ -14,9 +14,10 @@ const renderer = new PlainTextRenderer();
 
 export async function getStaticPaths({ paginate }) {
   const episodes = await getCollection("episode");
-  episodes.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  episodes.sort((a, b) => b.data.pubDate.valueOf() - a?.data?.pubDate.valueOf());
   return paginate(episodes, { pageSize: astropodConfig.pageSize });
 }
+
 const { page } = Astro.props;
 ---
 
