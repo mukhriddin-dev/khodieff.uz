@@ -24,7 +24,7 @@
     "dayjs": "^1.11.9",
     "marked": "^7.0.2",
     "marked-plaintext": "^0.0.2",
-    "sharp": "^0.32.1",
+    "sharp": "^0.32.6",
     "xml2js": "^0.6.2"
   },
   "devDependencies": {
