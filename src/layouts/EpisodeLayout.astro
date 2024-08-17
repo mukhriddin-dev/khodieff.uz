@@ -28,16 +28,16 @@ const displayDate = dayjs(pubDate).format("ll");
       class="card prose min-w-full prose-img:mx-auto bg-base-100 shadow-md p-3 mt-12"
     >
   
-      <div class="border-slate-50 p-6 rounded-2xl wr">
+      <div class="border-[rgba(225,225,225,0.2)] border p-6 rounded-2xl wr">
         <slot />
       </div>
 
-      <ul class="flex items-center border-slate-50 rounded-2xl hover:bg-slate-100"> 
+      <ul class="flex items-center border border-[rgba(225,225,225,0.2)] rounded-2xl hover:border-white"> 
            
           
              <p>Ulashish:</p>
 
-             <div>
+             <div class="dark:text-white">
 
               <script src="https://yastatic.net/share2/share.js" />
 
