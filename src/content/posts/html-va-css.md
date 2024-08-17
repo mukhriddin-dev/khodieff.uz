@@ -4,7 +4,7 @@ audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c1
 pubDate: 18 Aug 2024
 duration: 00:00:00
 size: 0
-cover: /2024-08-18-00.02.07.jpg
+cover: /html5-css31.png
 explicit: true
 episode: 2
 season: 1
