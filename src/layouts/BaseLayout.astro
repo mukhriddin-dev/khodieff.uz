@@ -1,5 +1,6 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
+import { ViewTransitions } from "astro:transitions";
 import Footer from "../components/Footer.astro";
 import astropodConfig from "../../.astropod/astropod.config.json";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
@@ -8,6 +9,7 @@ const { image, title = astropodConfig.name, description = astropodConfig.descrip
 ---
 
 <!DOCTYPE html>
+<ViewTransitions />
 <html lang="en" data-theme={astropodConfig.theme}>
   <head>
     <BaseHead title={title} description={description} image={image} />

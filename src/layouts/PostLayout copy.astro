@@ -1,0 +1,61 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import dayjs from "dayjs";
+import localizedFormat from "dayjs/plugin/localizedFormat";
+import HeaderCard from "../components/headerCard/HeaderCard.astro";
+import astropodConfig from "../../.astropod/astropod.config.json";
+import './index.css'
+
+const { title, explicit, pubDate, cover, description } = Astro.props;
+dayjs.extend(localizedFormat);
+const displayDate = dayjs(pubDate).format("ll");
+---
+
+<BaseLayout
+  title={`${title} - ${astropodConfig.name}`}
+  description={description}
+  image={cover}
+>
+  <HeaderCard
+    title={title}
+    subtitle={astropodConfig.name}
+    cover={cover}
+    explicit={explicit}
+  />
+
+  <main class="md:flex md:justify-center">
+    <article
+      class="card prose min-w-full prose-img:mx-auto bg-base-100 shadow-md p-3 mt-12"
+    >
+  
+      <div class="bg-slate-50 p-6 rounded-2xl wr">
+        <slot />
+      </div>
+
+      <ul class="flex items-center bg-slate-50 rounded-2xl hover:bg-slate-100"> 
+           
+          
+             <p>Ulashish:</p>
+
+             <div>
+
+              <script src="https://yastatic.net/share2/share.js" />
+
+              <div
+                class="ya-share2 block mt-2"
+                data-curtain
+                data-shape="round"
+                data-color-scheme="blackwhite"
+                data-limit="0"
+                data-more-button-type="short"
+                data-services="telegram,whatsapp"
+
+              />
+        
+             </div>
+          
+        
+      </ul>
+    </article>
+  </main>
+</BaseLayout>
