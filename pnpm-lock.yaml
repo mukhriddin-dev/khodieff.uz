@@ -41,6 +41,9 @@ importers:
       marked-plaintext:
         specifier: ^0.0.2
         version: 0.0.2
+      or:
+        specifier: ^0.2.0
+        version: 0.2.0
       sharp:
         specifier: ^0.32.6
         version: 0.32.6
@@ -3340,6 +3343,9 @@ packages:
 
   optimism@0.10.3:
     resolution: {integrity: sha512-9A5pqGoQk49H6Vhjb9kPgAeeECfUDF6aIICbMDL23kDLStBn1MWk3YvcZ4xWF9CsSf6XEgvRLkXy4xof/56vVw==}
+
+  or@0.2.0:
+    resolution: {integrity: sha512-BHB8VZq2isxkyRaCBZ6CZCbQBzCT+gy8LPiqdbMH1+Fd6biFj3v8ebjeYzzL51PbsApsPYnGegGTO6KLQMxxDw==}
 
   ora@8.0.1:
     resolution: {integrity: sha512-ANIvzobt1rls2BDny5fWZ3ZVKyD6nscLvfFRpQgfWsythlcsVUC9kL0zq6j2Z5z9wwp1kd7wpsD/T9qNPVLCaQ==}
@@ -9120,6 +9126,8 @@ snapshots:
   optimism@0.10.3:
     dependencies:
       '@wry/context': 0.4.4
+
+  or@0.2.0: {}
 
   ora@8.0.1:
     dependencies:
