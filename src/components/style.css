@@ -7,6 +7,10 @@
   text-decoration-color: transparent !important;
 }
 
+p{
+  text-decoration-color: transparent !important;
+}
+
 
 .episode-card:hover {
   filter: grayscale(1);
