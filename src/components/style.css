@@ -1,0 +1,20 @@
+
+
+.episode-card{
+  filter: grayscale(0.2);
+  cursor: pointer;
+  text-decoration: underline !important;
+  text-decoration-color: transparent !important;
+}
+
+
+.episode-card:hover {
+  filter: grayscale(1);
+  cursor: pointer;
+  text-decoration: underline !important;
+  text-decoration-color: rgb(5, 6, 33) !important;
+}
+
+.title:hover{
+    text-decoration: underline !important;
+}

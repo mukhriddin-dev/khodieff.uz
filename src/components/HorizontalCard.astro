@@ -7,6 +7,7 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 dayjs.extend(localizedFormat);
 import PlayIcon from "./icons/playIcon.astro";
 import PauseIcon from "./icons/pauseIcon.astro";
+import "./style.css"
 
 let cover_url = cover ? cover : astropodConfig.cover;
 const displayDate = dayjs(pubDate).format("ll");
@@ -32,14 +33,14 @@ const displayDuration = formatTime(duration);
 <div class="episode-card">
   <div class="hero-content flex-row">
     <a href={url} class="min-w-fit">
-      <img src={cover_url} alt={title} class="shadow-lg object-cover rounded-md w-[4.5rem] h-[4.5rem] md:w-24 md:h-24" />
+      <img src={cover_url} alt={title} class="shadow-lg photo object-cover rounded-md w-[4.5rem] h-[4.5rem] md:w-24 md:h-24" />
     </a>
     <div class="grow w-full overflow-auto">
       <a href={url}>
-        <h2 class="md:text-xl text-sm font-semibold truncate">
+        <h2 class="md:text-xl text-sm font-semibold truncate title">
           {title}
         </h2>
-        <p class="text-xs font-medium opacity-60">
+        <p class="text-xs font-medium opacity-60 paragraph">
           {displayDuration && displayDuration + " • "}
           {displayDate}
         </p>
