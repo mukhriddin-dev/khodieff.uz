@@ -39,10 +39,8 @@ Ularga javobni qanday bilsak bo'ladi ?
    Bir barobar harakat qilsangiz, albatta ulardan qolib ketishingiz mumkin.
 3. **Agar siz uchinchi toifaga kirsangiz.** 
    Kayfiyatni tushurmang. Yon-atrofingizdagi odamlar sizdan juda ham tez o'tib ketishiga siqilmang. Ularni ba'zilari iqtidorli, ba'zilarini esa qo'lida qurollari mavjud. Siz esa bularga qarshi o'zingizga nisbatan 3-4 barobar ko'proq harakat va izlanish qilishingiz kerak. Ko'proq harakat qilsangiz, inshaaAlloh siz xatto ulardan ham o'tib ketishingiz mumkin. Yoki yana bir narsa, o’zingizda boshqa kasbga qobiliyatingiz va xohishingiz bo’lsa, yo’lni qayta boshlashdan cho’chimang. Yaxshi reja orqali, boshqasiga sakrashga qiynalmaysiz Xudo xohlasa.
-4.
-
-Shuni unutmaslik kerakki, barchasi Allohdan. Biror narsa uchun qancha ko'p sabablarini qilsangiz, Alloh xohlasa shuncha tez unga erishasiz. 
-Alloh ba’zilarga nimadirni berib sinasa, ba’zilardan olib sinaydi. Bir ne’matdan sinov kelsa, boshqa son-sanoqsiz ne’matlarga noshukr bo’lmang. **“Nega menda o’xshamaydi?!**” deyavermang.
-Hammasiga **Alhamdulillah** deng, xatolaringiz ustida ishlang, to’g’ri reja qiling va yo’lda davom eting.
+4. Shuni unutmaslik kerakki, barchasi Allohdan. Biror narsa uchun qancha ko'p sabablarini qilsangiz, Alloh xohlasa shuncha tez unga erishasiz. 
+   Alloh ba’zilarga nimadirni berib sinasa, ba’zilardan olib sinaydi. Bir ne’matdan sinov kelsa, boshqa son-sanoqsiz ne’matlarga noshukr bo’lmang. **“Nega menda o’xshamaydi?!**” deyavermang.
+   Hammasiga **Alhamdulillah** deng, xatolaringiz ustida ishlang, to’g’ri reja qiling va yo’lda davom eting.
 
 **InshaaAlloh.**
