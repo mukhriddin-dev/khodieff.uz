@@ -33,7 +33,7 @@ let cover_url = cover ? cover : astropodConfig.cover;
     </div>
     <img
       alt={astropodConfig.name + "cover"}
-      class="-mt-28 mx-6 md:-mt-28 border-4 z-10 relative border-base-100 object-cover rounded-lg md:mx-11 w-24 h-24 md:h-40 md:w-40"
+      class="-mt-28 mx-6 rounded-full md:-mt-28 border-4 z-10 relative border-base-100 object-cover rounded-lg md:mx-11 w-24 h-24 md:h-40 md:w-40"
       src={cover_url}
     />
   </div>
@@ -61,8 +61,8 @@ let cover_url = cover ? cover : astropodConfig.cover;
       )
     }
 
-    <a href="/rss.xml" class="btn btn-ghost btn-square m-1 sm:w-12 w-10" title="RSS Feed">
+    <!-- <a href="/rss.xml" class="btn btn-ghost btn-square m-1 sm:w-12 w-10" title="RSS Feed">
       <RssIcon />
-    </a>
+    </a> -->
   </div>
 </div>
