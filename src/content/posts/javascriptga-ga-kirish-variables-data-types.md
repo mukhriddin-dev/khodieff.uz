@@ -103,7 +103,7 @@ x = 3.14; // Xatolik, o'zgaruvchi e'lon qilinmagan
 * **%**: Qoldiq
 * **\*\***: Darajaga ko'tarish
 
-Bizni tarmoqlarda kuzatishingiz mumkin va maqola foydali bo'lsa izoh va Vuechi do'stlaringizga ulashing. 🫡
+Bizni tarmoqlarda kuzatishingiz mumkin va maqola foydali bo'lsa izoh va JavaScriptni  o'rganmochi bo'lgan do'stlaringizga ulashing. 🫡
 
 🔗 https://t.me/mukhriddinweb
 
