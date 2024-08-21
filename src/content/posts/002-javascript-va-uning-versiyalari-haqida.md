@@ -4,19 +4,17 @@ audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c1
 pubDate: 21 Aug 2024
 duration: 09:00:00
 size: 0
-cover: https://www.khodieff.uz/2024-08-20-18.03.22.jpg
+cover: /2024-08-20-18.03.22.jpg
 explicit: true
 episode: 4
 season: 2
-episodeType: full
+postType: full
 ---
 **JavaScript** versiyalari dasturlash tilining rivojlanishini va yangi xususiyatlar qo'shilishini ifodalaydi. JavaScriptning versiyalari asosan ECMAScript standarti orqali belgilanadi. ECMAScript — bu JavaScriptni standartlashtirish uchun ishlab chiqilgan bir hujjat bo'lib, yangi versiyalar har yili chiqariladi. Quyida JavaScriptning muhim versiyalari va ularning asosiy xususiyatlari haqida qisqacha ma'lumot:
 
 ![khodieff.uz](https://miro.medium.com/v2/resize:fit:1200/1*FZqSnFinahk40hQWMr3_5g.png "khodieff.uz js versions")
 
 ### ECMAScript Versiyalari
-
-
 
 #### 1. **ECMAScript 1 (ES1)**
 
@@ -137,10 +135,6 @@ episodeType: full
 
 ### Xulosa
 
-
-
 JavaScript tili vaqt o'tishi bilan yangilangan va rivojlangan. Har bir yangi ECMAScript versiyasi dasturlash tajribasini yaxshilash, kodni soddalashtirish va yangi xususiyatlarni qo'shish maqsadida chiqariladi. Har bir versiya o'ziga xos xususiyatlar va imkoniyatlarni taqdim etadi, shuning uchun zamonaviy JavaScript dasturchilari eng so'nggi standartlarga rioya qilishlari muhimdir.
-
-
 
 Keyingi postlarda davom etamiz.
