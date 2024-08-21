@@ -1,5 +1,5 @@
 ---
-title: JavaScriptga ga kirish! (Variables, Data Types)
+title: "000. JavaScriptga ga kirish! "
 audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c162821765-1658350707858.mp3
 pubDate: 20 Aug 2024
 duration: 04:45:00
