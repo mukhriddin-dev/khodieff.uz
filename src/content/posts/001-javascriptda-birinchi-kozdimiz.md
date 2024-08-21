@@ -1,5 +1,5 @@
 ---
-title: 001. JavaScriptda birinchi kozdimiz
+title: 001. JavaScriptda birinchi kodimizni yozamiz
 audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c162821765-1658350707858.mp3
 pubDate: 21 Aug 2024
 duration: 2:09:02
