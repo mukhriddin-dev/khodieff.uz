@@ -5,7 +5,7 @@ import themes from "./src/helpers/themes.json";
 
 export default function dcapconfig() {
   const config = {
-    logo_url: "/cmsBanner.svg",
+    logo_url: "/favicon.png",
     backend: {
       name: "git-gateway",
       branch: "main",
@@ -17,7 +17,7 @@ export default function dcapconfig() {
         label: "Episodes",
         label_singular: "Episode",
         folder: "src/content/episode",
-        sortable_fields: ["title", "pubDate", "episode", "season"],
+        sortable_fields: ["pubDate", "title", "episode", "season"],
         create: true,
         delete: true,
         fields: [
@@ -57,13 +57,13 @@ export default function dcapconfig() {
         label: "Posts",
         label_singular: "Posts",
         folder: "src/content/posts",
-        sortable_fields: ["title", "pubDate", "episode", "season"],
+        sortable_fields: ["pubDate","title", "episode", "season"],
         create: true,
         delete: true,
         fields: [
           { name: "title", widget: "string", label: "Post Title" },
           { name: "audioUrl", widget: "string", label: "Audio URL" },
-          { name: "pubDate", widget: "date", label: "Publish Date", format: "DD MMM YYYY" },
+          { name: "pubDate", widget: "date", label: "Publish Date", format: "DD MMM YYYY HH:MM:SS" },
           { name: "body", widget: "markdown", label: "Post Body", required: false },
           {
             name: "duration",

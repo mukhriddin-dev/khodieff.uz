@@ -9,7 +9,7 @@ const episodeSchema = z.object({
     episode: z.number().optional(),
     season: z.number().optional(),
     episodeType: z.string().optional(),
-    duration: z.coerce.string(), 
+    duration: z.coerce.string().optional(), 
     size: z.number(), 
 });
 
@@ -23,7 +23,7 @@ const postSchema = z.object({
     episode: z.number().optional(),
     season: z.number().optional(),
     episodeType: z.string().optional(),
-    duration: z.coerce.string(), 
+    duration: z.coerce.string().optional(), 
     size: z.number(), 
 });
 
