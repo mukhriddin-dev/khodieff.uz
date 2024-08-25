@@ -10,7 +10,7 @@ episode: 1
 season: 4
 postType: full
 ---
-**Vue.js** – bu veb-ilovalar va foydalanuvchi interfeyslarini yaratish uchun ishlatiladigan zamonaviy JavaScript framework (freymvorki). Vue.js ning asosiy vazifasi foydalanuvchi interfeysi komponentlarini yaratish va ularga boshqaruvni osonlashtirishdir. U asosan Single Page Applications (SPA) yaratish uchun qo'llaniladi, lekin undan murakkab bo'lmagan loyihalar uchun ham foydalanish mumkin.
+**Vue.js** – bu veb-ilovalar va foydalanuvchi interfeyslarini yaratish uchun ishlatiladigan zamonaviy JavaScript framework (freymvorki). Vue.js ning asosiy vazifasi foydalanuvchi interfeysi komponentlarini yaratish va ularga boshqaruvni osonlashtirishdir. U asosan Single Page Applications (SPA) yaratish uchun qo'llaniladi, lekin undan murakkab bo'lmagan loyihalar uchun ham foydalanish mumkin..
 
 ![khodieff.uz](/the-most.png "vue.js | khodieff.uz")
 
