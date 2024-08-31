@@ -26,7 +26,7 @@ const pagination = getPagination(page.currentPage, page.lastPage, 5);
     {
       pagination.map((item) => (
         <a
-          href={item == 1 ? "/" : `${item}`}
+          href={item == 1 ? "/" : `/posts/${item}`}
           class={item == page.currentPage ? "join-item btn btn-active" : "join-item btn bg-base-100"}
         >
           {item}
