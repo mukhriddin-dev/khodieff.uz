@@ -12,7 +12,6 @@ postType: full
 ---
 **Vue3** da reaktivlik (reactivity) asosiy qismlardan biri hisoblanadi, bu dastur yoki saytimizning  dinamikligini va interaktivligini ta’minlash uchun ishlatiladi. Vue3 da reaktivlik Vue'ning Composition API (versiyasi) orqali amalga oshiriladi. Bu **"Composition API"** (v3) Vue 2 dagi **"Options API"** bilan solishtirganda ancha  tartibli ishlash va qulaylikni beradi.
 
-![]()
 
 ![khodieff.uz](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1qhvsohahwhl7dym0478.jpg "khodieff.uz")
 
