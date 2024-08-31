@@ -18,7 +18,7 @@ export async function getStaticPaths({ paginate }) {
   return paginate(episodes, { pageSize: astropodConfig.pageSize });
 }
 
-const { page } = Astro.props;
+const { page } = Astro.props as any;
 ---
 
 <BaseLayout>
