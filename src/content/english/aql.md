@@ -1,47 +1,48 @@
 ---
-title: AQL
+title: 000. Nima uchun ingliz tilini o'rganish kerak ?
 audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c162821765-1658350707858.mp3
 pubDate: 23 Aug 2024
 duration: 18:07:00
 size: 0
-cover: https://hilolnashr.uz/image/cache/catalog/Mukammal-Saodat-Yuli_2_web-500x500.jpg
+cover: https://telegra.ph/file/99cea8db1fc1f13d0f042.jpg
 explicit: true
-episode: 23
 season: 1
 episodeType: full
+episode: 1
+postType: full
 ---
-AQL
-
-Aqlning ilm bilan aloqasini aqoid ilmining ko'zga ko‘ringan namoyandalaridan biri Umar Nasafiy rahmatullohi alayhi quyidagicha ta'riflaydi.
-
-"Aql ham ilmning vositasidir. Unda o‘z-o‘zidan paydo bo‘lgan ilm zaruriydir. Har bir narsa o‘zining bo‘lagidan katta ekani haqidagi ilm kabi. Aqlning mushohadasi orqali sobit bo‘lgan ilm kasbiydir. Ahli haq nazdida ilhom bir narsaning to‘g‘riligi haqidagi ma’rifat uchun vosita emas".
-
-    Insonning aqli ilm hosil qilish uchun eng muhim omildir. Aql vositasi ila hosil bo‘ladigan ilm ikkiga bo‘linadi.
-    Birinchisi – tahlil va mushohadasiz, bir ko‘rgandayoq o‘z-o‘zidan paydo bo‘ladigan ilm. Har bir narsa o‘zining bir parchasidan ko‘ra katta ekani bir ko‘rishda o‘z-o‘zidan bilinadi. Bu «zaruriy ilm» deb ataladi.
-    Ikkinchisi - aqlni ishga solib, tahlil va mushohada qilish bilan hosil bo‘ladigan ilm. Bu esa «o‘zlashtirilgan ilm» deb ataladi.
+#### Ingliz tilini o'rganish ko'plab sabablarga ko'ra muhimdir. Quyida eng asosiy sabablarni sanab chiqamiz:
 
 
-    Aql ila hosil bo‘ladigan ilm his qilish a’zolari vositasida hosil bo‘ladigan ilmdan kuchlidir. Aql vositasi ila his qilish a’zolari yo‘l qo‘ygan xatolar ham tuzatiladi.
-    Masalan, suvda biror narsaning aksini singan holatda ko‘rish mumkin. Bu ko‘zning noto‘g‘ri xabaridir, lekin aql suvda aksi shunday ko‘rinayotgan narsaning aslida butun, to‘g‘riligi haqida ilm beradi.
-    Kasal odamga shirin taom ham nordon tuyulishi mumkin, lekin aql u taom aslida shirin ekanini anglatadi.
-    Ha, Alloh taolo odam bolasini O‘zi bergan aql bilan azizu mukarram qilib qo‘ydi. Inson o‘zidagi aql bilan boshqa hamma maxluqotlardan ustun turadi. Alloh bergan aql ila inson turli tadbirlar qiladi, turli ashyolarni, har turli maxluqotlarni o‘z foydasiga ishlatadi.
 
+![khodieff.uz](https://www.cityofparramatta.nsw.gov.au/sites/council/files/2019-05/english_conversation_class.jpg "english | khodieff.uz")
 
-    Ayniqsa, bugungi kunimizga kelib, inson o‘z aqlini ishlatib, ilm-ma’rifatning cho‘qqilarini birin-ketin zabt etmoqda. Oyga chiqmoqda, fazoni zabt etmoqda, o‘zining baxt-saodati uchun turli kashfiyotlarni qilmoqda. Yana son-sanoqsiz ishlarni qilishni rejalashtirmoqda.
-    O‘z-o‘zidan, demak, inson aqlini ishlatib topgan narsalari uni to‘liq baxt-saodat bilan ta’minlashga yetarli ekan-da, degan xulosa chiqadi. Bu fikrni bir ovozdan tasdiqlaganlar «Chunki bu inkor qilib bo‘lmaydigan haqiqat-da», - deb qo‘yishadi.
+##### 1. **Xalqaro Muloqot Tili**
 
+* Ingliz tili dunyodagi eng keng tarqalgan xalqaro muloqot tilidir. Ko'pgina davlatlarda odamlar o'z ona tillari bilan bir qatorda ingliz tilini ham yaxshi bilishadi. Sayohat qilishda, xalqaro tadbirlarda qatnashishda yoki turli millatlardagi odamlar bilan suhbatlashishda bu til asosiy vosita bo'lib xizmat qiladi.
 
-     Ammo musulmon ulamolar bu gapga qo‘shilmaydilar. Ularning barchasi bir ovozdan «Insonning aqli uning to‘liq baxtli bo‘lishi uchun yetmaydi», - deydilar va bu fikrlarining tasdig‘i uchun quyidagilarni aytadilar:
-    Insonning barcha jihatlari, imkoniyatlari chegaralangani kabi, aqli ham chegaralangandir. Uning aqli ko‘p narsalarga yetgani bilan, ba’zi narsalarga yetmasligi turgan gap. Insonning barcha a’zolari, jumladan, his qilish a’zolari kamchilik va xatoga yo‘l qo‘ygani kabi uning aqli ham kamchilik va xatoga yo‘l qo‘yishi turgan gap. Bunga misol keltirishning hojati ham yo‘q. Chunki bugungi dunyo inson aqli yo‘l qo‘ygan xatolarga to‘liq yotibdi va o‘sha xatolardan azob chekmoqda.
+##### 2. **Ta'lim Va Ilm-Fan**
 
+* Ko'pgina ilmiy va akademik adabiyotlar, jumladan, tadqiqotlar va maqolalar ingliz tilida nashr etiladi. Dunyoning ko'plab universitetlari va ta'lim muassasalarida ta'lim ingliz tilida olib boriladi. Shuningdek, xalqaro testlar va sertifikatlar, masalan, IELTS, TOEFL, GRE va boshqalar, ingliz tilida o'tkaziladi.
 
-    Insonda aql bo‘lishi bilan birga, havoyi nafs ham bor. Gohida uning havoyi nafsi aqlidan ustun kelishi hech kimga sir emas. Ana o‘shanda aql bovar qilmaydigan xatolarga yo‘l qo‘yishi ham hammaga ma’lum. Havo deganda nafsning lazzat baxsh etuvchi va shariat ruxsat bermagan shahvatlarga moyil bo‘lishi tushuniladi.
-    Shuning uchun ham bugungi aql o‘z rivojining cho‘qqisiga chiqqan bir paytda odamlar o‘zlari uchun koni zarar bo‘lgan mast qiluvchi ichimliklarni o‘zlari man qila olmasdan, ularni ishlab chiqarish bo‘yicha turli musobaqalar uyushtirib, mazkur zaharni ishlab chiqarishda peshqadam bo‘lganlar bir-birlarini mukofotlab yurishibdi.
+##### 3. **Karyera Va Ish Imkoniyatlari**
 
+* Ingliz tilini bilish ko'plab ish beruvchilar uchun muhim talabdir. Xalqaro kompaniyalarda ishlash, chet elda ishlash yoki o'z mamlakatingizda yuqori lavozimlarga erishish uchun ingliz tilini bilish zarur. Ingliz tilida yaxshi gapira olish, yozish va o'qish ko'plab sohalarda, masalan, IT, marketing, tijorat, huquq, va boshqalarda keng imkoniyatlar yaratadi.
 
-    Shuning uchun ham bugungi aql o‘z rivojining cho‘qqisiga chiqqan bir paytda odamlar erkakning erkakka, ayolning ayolga nikohlanishi haqida qonunlar chiqarib, bu ishlari bilan maqtanib yurishibdi. Bunday ishlardan jirkanganlarni turli ayblar ila qoralashmoqda.
-    Bunga o‘xshash misollarni istalganicha keltirishimiz mumkin. Ammo bugun inson o‘z hayotidagi shikoyat qilayotgan muammolarining barchasi aqldagi nuqsonning va xatoning samarasi ekanini anglab yetsak, kifoya qiladi.
+##### 4. **Texnologiya Va Axborot**
 
-> \-- Shayx Muhammad Sodiq Muhammad Yusuf. "Mukammal saodat yo‘li" kitobidan
+* Internetning asosiy qismi ingliz tilida. Ko'pgina texnologik mahsulotlar, dasturlar, veb-saytlar, va dasturiy ta'minot interfeyslari ingliz tilida ishlab chiqilgan. Shuningdek, texnologiya va IT sohasidagi eng dolzarb yangiliklar va rivojlanishlar ham ingliz tilida nashr etiladi.
 
-@khodieff
+##### 5. **Madaniyat Va San'at**
+
+* Dunyoning eng mashhur kitoblari, filmlari, musiqa va boshqa madaniy asarlarining aksariyati ingliz tilida yaratilgan. Ingliz tilini bilish orqali siz turli madaniyatlar bilan tanishishingiz, adabiyot va san'atdan bahramand bo'lishingiz mumkin.
+
+##### 6. **Sayohat Va Ko'chish**
+
+* Sayohat qilishda yoki boshqa mamlakatga ko'chib o'tishda ingliz tilini bilish juda katta yordam beradi. Bu til deyarli barcha aeroportlarda, mehmonxonalarda va sayyohlik markazlarida ishlatiladi. Chet elda yashash yoki ta'lim olishni rejalashtirayotgan bo'lsangiz, ingliz tili sizning kundalik hayotingizni osonlashtiradi.
+
+##### 7. **Kengaytirilgan Aloqa Tarmog'i**
+
+* Ingliz tilini bilish global tarmoq yaratishda yordam beradi. Dunyo bo'ylab turli kasb egalari bilan aloqada bo'lish, tajriba almashish va hamkorlik qilish imkoniyatini beradi. Bu nafaqat biznes va ish uchun, balki shaxsiy rivojlanish uchun ham muhim.
+
+Ingliz tilini o'rganish orqali sizga dunyo eshiklari ochiladi va shaxsiy va professional hayotingizda ko'plab imkoniyatlardan foydalanishingiz mumkin bo'ladi.
