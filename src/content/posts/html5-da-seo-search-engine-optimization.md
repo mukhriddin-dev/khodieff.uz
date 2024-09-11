@@ -61,11 +61,7 @@ Ichki havolalar sahifalaringizni qidiruv tizimlariga yaxshiroq tushuntirishga yo
 
 Veb sahifalaringizning yuklanish tezligini oshirish ham muhim omil. Sahifa tez yuklansa, foydalanuvchilar uni tark etish ehtimoli kamayadi va bu qidiruv tizimlarida yuqori pozitsiya olishga yordam beradi.
 
-
-
-## **Keling endu Meta teglari haqida gaplashamiz.**
-
-
+## **Keling endi Meta teglari haqida gaplashamiz.**
 
  HTML hujjatlarining **head** qismida joylashib, sahifa haqida ma'lumotni qidiruv tizimlariga va brauzerlarga yetkazish uchun ishlatiladi. Bu teglarga kontent tavsifi, kalit so'zlar, sahifa avtori, til va boshqa ma'lumotlar kiradi. Quyida muhim meta teglari haqida batafsil:
 
@@ -187,7 +183,5 @@ Bu teglar Twitter tarmog'ida sahifa haqida ma'lumotni ko'rsatish uchun ishlatila
 ```
 
 ### Xulosa qilsak:
-
-
 
 **Meta teglari** sahifani optimallashtirish va qidiruv tizimlari tomonidan to'g'ri tushunilishi uchun muhimdir. Sahifangiz uchun kerakli meta teglardan to'g'ri foydalanish orqali qidiruv tizimlarida reytingingizni yaxshilashingiz va foydalanuvchilarni jalb qilishingiz mumkin janoblar.
