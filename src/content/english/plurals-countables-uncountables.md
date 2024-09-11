@@ -16,8 +16,6 @@ Plural (ko‘plik), Countable (sanalmaydigan) va Uncountable (sanalmaydigan) otl
 
 ### **1. Plural (ko‘plik otlar)**
 
-
-
 Ingliz tilida otlarning ko‘plik shakli odatda **\-s** yoki **\-es** qo‘shimchasini qo‘shish orqali yasaladi. Bu qoidalar umumiy bo‘lsa-da, ba'zi istisnolar ham mavjud.
 
 #### **Qoidalar:**
@@ -113,5 +111,3 @@ Sanalmaydigan otlar son bilan ifodalanmaydi, ya'ni ular birlik shaklda qoladi va
 * **Much** sanalmaydigan otlar bilan ishlatiladi: **Much water**, **Much sugar**.
 
 Bu tushunchalar yordamida otlarni to‘g‘ri ishlatish qoidalarini o‘rganib, gaplaringizda to‘g‘ri ishlatishingiz mumkin.
-
-Savollaringiz bo‘lsa, bemalol so'rang!
