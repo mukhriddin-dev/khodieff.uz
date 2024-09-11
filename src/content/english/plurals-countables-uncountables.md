@@ -10,7 +10,9 @@ episode: 2
 season: 1
 postType: full
 ---
-Plural (ko‘plik), Countable (sanalmaydigan) va Uncountable (sanalmaydigan) otlar ingliz tilidagi otlarni to‘g‘ri ishlatish uchun muhim tushunchalar. Keling, ularni birma-bir tushuntirib chiqaylik.
+#### **Plural (ko‘plik), Countable (sanalmaydigan) va Uncountable (sanalmaydigan) otlar ingliz tilidagi otlarni to‘g‘ri ishlatish uchun muhim tushunchalar. Keling, ularni birma-bir tushuntirib chiqaylik.**
+
+
 
 ![khodieff.uz](https://s6.picofile.com/file/8247371992/linguistics_banner.jpg "khodieff.uz | English")
 
