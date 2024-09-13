@@ -12,8 +12,6 @@ postType: full
 ---
 #### **Plural (ko‘plik), Countable (sanalmaydigan) va Uncountable (sanalmaydigan) otlar ingliz tilidagi otlarni to‘g‘ri ishlatish uchun muhim tushunchalar. Keling, ularni birma-bir tushuntirib chiqaylik.**
 
-
-
 ![khodieff.uz](https://s6.picofile.com/file/8247371992/linguistics_banner.jpg "khodieff.uz | English")
 
 ### **1. Plural (ko‘plik otlar)**
@@ -54,7 +52,7 @@ Ingliz tilida otlarning ko‘plik shakli odatda **\-s** yoki **\-es** qo‘shimc
   * Child → Children
   * Mouse → Mice
 
-### **2. Countable Nouns (Sanalmaydigan otlar)**
+### **2. Countable Nouns (Sanaladigan otlar)**
 
 Sanalmaydigan otlar son bilan ifodalanadigan narsalarni bildiradi va ularning **birlik** va **ko‘plik** shakllari mavjud.
 
@@ -64,7 +62,7 @@ Sanalmaydigan otlar son bilan ifodalanadigan narsalarni bildiradi va ularning **
 
   * A car → Two cars
   * An apple → Three apples
-* **A** yoki **An** artikli sanalmaydigan otlar bilan ishlatiladi.
+* **A** yoki **An** artikli sanaladigan otlar bilan ishlatiladi.
 
   * A dog, A student
   * An umbrella, An egg
