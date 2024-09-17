@@ -29,11 +29,32 @@ const display_image = image ? image : astropodConfig.cover;
 <meta property="og:url" content={astropodConfig.link} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(display_image, astropodConfig.link)} />
+<meta
+  property="og:image"
+  content={new URL(display_image, astropodConfig.link)}
+/>
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={astropodConfig.link} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={new URL(display_image, astropodConfig.link)} />
+<meta
+  property="twitter:image"
+  content={new URL(display_image, astropodConfig.link)}
+/>
+
+<!-- Google Tag Manager -->
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-PDCQWFJM");
+</script>
+<!-- End Google Tag Manager -->
