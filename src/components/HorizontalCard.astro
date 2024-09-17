@@ -9,7 +9,6 @@ dayjs.extend(localizedFormat);
 import PlayIcon from "./icons/playIcon.astro";
 import PauseIcon from "./icons/pauseIcon.astro";
 import "./style.css";
-import { AstroSeo } from "@astrolib/seo";
 
 let cover_url = cover ? cover : astropodConfig.cover;
 const displayDate = dayjs(pubDate).format("ll");
@@ -33,42 +32,6 @@ function formatTime(secs) {
 
 const displayDuration = formatTime(duration);
 ---
-
-<AstroSeo
-  title,
-  description=`${desc.substring(0,25)}`
-  ,
-  canonical="https://www.khodieff.uz"
-  openGraph={{
-    url,
-    title,
-    description: `${desc.substring(0, 25)}`,
-    images: [
-      {
-        url: cover_url,
-        width: 800,
-        height: 600,
-        alt: title,
-        type: "image/jpeg"
-      },
-      {
-        url: cover_url,
-        width: 900,
-        height: 800,
-        alt: title,
-        type: "image/jpeg"
-      },
-      { url: cover_url },
-      { url: cover_url }
-    ],
-    site_name: "khodieff.uz"
-  }}
-  twitter={{
-    handle: "@khodieff",
-    site: "@khodieff.uz",
-    cardType: "summary_large_image"
-  }}
-/>
 
 <div class="episode-card">
   <div class="hero-content flex-row">
