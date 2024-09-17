@@ -1,5 +1,6 @@
 ---
-const { title, cover, desc, url, audioUrl, id, pubDate, duration } = Astro.props;
+const { title, cover, desc, url, audioUrl, id, pubDate, duration } =
+  Astro.props;
 
 import astropodConfig from "../../.astropod/astropod.config.json";
 import dayjs from "dayjs";
@@ -7,7 +8,8 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 dayjs.extend(localizedFormat);
 import PlayIcon from "./icons/playIcon.astro";
 import PauseIcon from "./icons/pauseIcon.astro";
-import "./style.css"
+import "./style.css";
+import { AstroSeo } from "@astrolib/seo";
 
 let cover_url = cover ? cover : astropodConfig.cover;
 const displayDate = dayjs(pubDate).format("ll");
@@ -24,16 +26,58 @@ function formatTime(secs) {
   const formattedMinutes = minutes < 10 ? `0${minutes}` : minutes;
   const formattedseconds = seconds < 10 ? `0${seconds}` : seconds;
 
-  return hours > 0 ? `${hours}:${formattedMinutes}:${formattedseconds}` : `${minutes}:${formattedseconds}`;
+  return hours > 0
+    ? `${hours}:${formattedMinutes}:${formattedseconds}`
+    : `${minutes}:${formattedseconds}`;
 }
 
 const displayDuration = formatTime(duration);
 ---
 
+<AstroSeo
+  title,
+  description=`${desc.substring(0,25)}`
+  ,
+  canonical="https://www.khodieff.uz"
+  openGraph={{
+    url,
+    title,
+    description: `${desc.substring(0, 25)}`,
+    images: [
+      {
+        url: cover_url,
+        width: 800,
+        height: 600,
+        alt: title,
+        type: "image/jpeg"
+      },
+      {
+        url: cover_url,
+        width: 900,
+        height: 800,
+        alt: title,
+        type: "image/jpeg"
+      },
+      { url: cover_url },
+      { url: cover_url }
+    ],
+    site_name: "khodieff.uz"
+  }}
+  twitter={{
+    handle: "@khodieff",
+    site: "@khodieff.uz",
+    cardType: "summary_large_image"
+  }}
+/>
+
 <div class="episode-card">
   <div class="hero-content flex-row">
     <a href={url} class="min-w-fit">
-      <img src={cover_url} alt={title} class="shadow-lg photo object-cover rounded-md w-[4.5rem] h-[4.5rem] md:w-24 md:h-24" />
+      <img
+        src={cover_url}
+        alt={title}
+        class="shadow-lg photo object-cover rounded-md w-[4.5rem] h-[4.5rem] md:w-24 md:h-24"
+      />
     </a>
     <div class="grow w-full overflow-auto">
       <a href={url}>
@@ -48,7 +92,13 @@ const displayDuration = formatTime(duration);
       </a>
     </div>
     <label class="btn btn-circle md:mx-2 swap">
-      <input type="checkbox" class="card-pay-buttons" id={id} data-audio-url={audioUrl} aria-label="Play and pause" />
+      <input
+        type="checkbox"
+        class="card-pay-buttons"
+        id={id}
+        data-audio-url={audioUrl}
+        aria-label="Play and pause"
+      />
       <div class="swap-off">
         <PlayIcon />
       </div>

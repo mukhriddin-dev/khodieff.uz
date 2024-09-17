@@ -9,12 +9,13 @@ import PlainTextRenderer from "marked-plaintext";
 import { marked } from "marked";
 import PaginationPosts from "../../components/pagination-posts.astro";
 
-
 const renderer = new PlainTextRenderer();
 
 export async function getStaticPaths({ paginate }) {
   const episodes = await getCollection("posts");
-  episodes.sort((a:any, b:any) => b.data.pubDate.valueOf() - a?.data?.pubDate.valueOf());
+  episodes.sort(
+    (a: any, b: any) => b.data.pubDate.valueOf() - a?.data?.pubDate.valueOf()
+  );
   return paginate(episodes, { pageSize: astropodConfig.pageSize });
 }
 
@@ -22,16 +23,17 @@ const { page } = Astro.props as any;
 ---
 
 <BaseLayout>
-  
   <HeaderCard title={astropodConfig.name} subtitle={astropodConfig.author} />
 
   <div class="card min-w-full bg-base-100 shadow-md p-3 pb-3 mt-12">
     {
-      page.data.map((episode:any, index:any) => (
+      page.data.map((episode: any, index: any) => (
         <HorizontalCard
           title={episode.data.title}
           cover={episode.data.cover}
-          desc={marked.parse(episode.body.slice(0, 500), { renderer: renderer })}
+          desc={marked.parse(episode.body.slice(0, 500), {
+            renderer: renderer
+          })}
           url={"/posts/" + episode.slug}
           audioUrl={episode.data.audioUrl}
           pubDate={episode.data.pubDate}

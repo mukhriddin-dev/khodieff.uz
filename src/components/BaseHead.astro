@@ -49,9 +49,9 @@ const display_image = image ? image : astropodConfig.cover;
   (function (w, d, s, l, i) {
     w[l] = w[l] || [];
     w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != "dataLayer" ? "&l=" + l : "";
+    var f: any = d.getElementsByTagName(s)[0],
+      j: any = d.createElement(s),
+      dl: any = l != "dataLayer" ? "&l=" + l : "";
     j.async = true;
     j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
     f.parentNode.insertBefore(j, f);
@@ -61,12 +61,13 @@ const display_image = image ? image : astropodConfig.cover;
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EG3C58RVLZ"
 ></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
+  const win: any = window;
+  win.dataLayer = win.dataLayer || [];
+  function gtag(a: string, b: string | any) {
+    var dataLayer: any;
     dataLayer.push(arguments);
   }
   gtag("js", new Date());
-
   gtag("config", "G-EG3C58RVLZ");
 </script>
 <!-- End Google Tag Manager -->
