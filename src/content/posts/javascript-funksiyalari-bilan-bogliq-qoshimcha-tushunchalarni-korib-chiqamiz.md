@@ -1,7 +1,7 @@
 ---
-title: JavaScriptda funksiya  ( return , default value , pure function , impure
-  function ,  pipe , currying , factory)
-audioUrl: kkk
+title: 017. JavaScriptda funksiya  ( return , default value , pure function ,
+  impure function ,  pipe , currying , factory)
+audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c162821765-1658350707858.mp3
 pubDate: 21 Sep 2024 22:09:45
 duration: 0:00:00
 size: 0
