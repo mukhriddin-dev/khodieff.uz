@@ -1,5 +1,5 @@
 ---
-title: 018. JavaScriptda scope va "lexical environment" haqida tushuncha
+title: 018. JavaScriptda scopelar va "lexical environment" haqida tushuncha
 audioUrl: https://us-tuna-sounds-files.voicemod.net/19df8e9b-140c-4f43-8c0e-09c162821765-1658350707858.mp3
 pubDate: 23 Sep 2024 02:09:31
 duration: 0:00:00
